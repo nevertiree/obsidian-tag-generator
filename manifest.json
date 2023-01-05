@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-tag-generator",
+	"name": "Tag Generator",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "Auto Hashtag generator for Obsidian",
+	"author": "Wang LX",
+	"authorUrl": "https://gitee.com/wanglingxiao26",
+	"fundingUrl": "https://gitee.com/wanglingxiao26",
+	"isDesktopOnly": true
+}
